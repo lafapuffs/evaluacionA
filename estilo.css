@@ -1,0 +1,18 @@
+/* ===== RESET Y CONFIGURACIÓN GLOBAL ===== */
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ===== VARIABLES DE COLOR (PALETA PROFESIONAL) ====== */
+:root {
+    --PRIMARY: #2C3E50;
+    --SECONDARY: #3498db;
+    --accent: #e74c3c;
+    --success: #2ecc71;
+    --light: #ecf0fl;
+    --dark: #1a2524;
+    --white: #ffffff;
+    --shadow: rgba(0, 0, 0, 0.1);
+}
